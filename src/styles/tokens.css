@@ -1,0 +1,40 @@
+:root {
+  --arvi-bg: #f4f6f9;
+  --arvi-surface: #ffffff;
+  --arvi-surface-muted: #f8fafc;
+  --arvi-border: #dce2ea;
+  --arvi-border-strong: #c3cdd9;
+
+  --arvi-text: #0f172a;
+  --arvi-text-muted: #475569;
+  --arvi-text-subtle: #64748b;
+
+  --arvi-primary: #1d4ed8;
+  --arvi-primary-hover: #1e40af;
+  --arvi-primary-soft: #eff6ff;
+
+  --arvi-warning-bg: #fffbeb;
+  --arvi-warning-border: #fde68a;
+  --arvi-warning-text: #92400e;
+
+  --arvi-info-bg: #f0f9ff;
+  --arvi-info-border: #bae6fd;
+  --arvi-info-text: #075985;
+
+  --arvi-sidebar-width: 260px;
+  --arvi-topbar-height: 60px;
+
+  --arvi-radius-sm: 6px;
+  --arvi-radius-md: 10px;
+  --arvi-radius-lg: 14px;
+
+  --arvi-shadow-sm: 0 1px 2px rgba(15, 23, 42, 0.05);
+  --arvi-shadow-md: 0 8px 24px rgba(15, 23, 42, 0.08);
+
+  --arvi-font-sans:
+    'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen,
+    Ubuntu, Cantarell, sans-serif;
+  --arvi-font-mono:
+    ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono',
+    monospace;
+}
