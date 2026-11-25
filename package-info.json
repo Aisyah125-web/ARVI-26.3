@@ -1,0 +1,7 @@
+{
+  "product": "ARVI \u2014 Automatic Road Visualization",
+  "package": "rebuild-starter",
+  "version": "1.0.0",
+  "status": "repository scaffold; implementation pending",
+  "source_of_truth": "docs/PRD_ARVI_REBUILD.md"
+}
